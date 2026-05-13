@@ -17,7 +17,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Banco de Dados e Análise de Dados.
+Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo. Sou apaixonada por resolver problemas através da tecnologia e possuo foco em Banco de Dados e Análise de Dados.
  
 * **Habilidades Técnicas:** Python, PHP, HTML5, CSS3, Javascript, MySQL, APIs, Photoshop/Adobe XD, Figma, Laravel, Wordpress .
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
