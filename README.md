@@ -69,6 +69,13 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | Modularizacao | Solução algorítmica para problemas complexos do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./modularização/) |
 | :--- | :--- | :---: |
 | Traduzindo Logica para Python | Quatro programas práticos: processador de vendas, analisador de clima, sistema de notas e simulador de poupança. | [Ver Projeto](./traduzindo-lógica-para-python/) |
+| :--- | :--- | :---: |
+|Engenharia de Contexto e Logica Fisica| Análise de microclima urbano (Mooca, Tatuapé, Guaianases) e simulador de rota de evacuação com listas e loops.| [Ver Projeto](./engenharia-de-contexto-e-lógica-física/) |
+| :--- | :--- | :---: |
+| Desenhando Emojis com Dados | Manipulação de matrizes, dicionários e tuplas com loops aninhados para criar arte visual em pixel com matplotlib. | [Ver Projeto](./desenhando-emoji-com-dados/) |
+
+
+
 
 
 
