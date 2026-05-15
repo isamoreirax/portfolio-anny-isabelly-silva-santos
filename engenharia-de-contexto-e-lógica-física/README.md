@@ -1,6 +1,6 @@
 # Engenharia de Contexto e Logica Fisica
 
-> Projeto desenvolvido por **Carlos Eduardo Azevedo Alves**  
+> Projeto desenvolvido por Anny Isabelly Silva Santos
 > Curso: Análise e Desenvolvimento de Sistemas — UNICID
 
 ---
