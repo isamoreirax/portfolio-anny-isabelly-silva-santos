@@ -59,15 +59,11 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| Algoritmo de Auditoria de Dados |Algoritmo que detecta outliers e anomalias em conjuntos de dados financeiros, aplicando normalização e margem de tolerância.| [Ver Projeto](./algoritimo-de-auditoria-de-dados/) |
+| Algoritmo de Auditoria de Dados |Algoritmo que detecta outliers e anomalias em conjuntos de dados financeiros, aplicando normalização e margem de tolerância.| [Ver Projeto](./projeto-banco-dados/) |
  
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+
  
 ---
  
