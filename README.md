@@ -65,9 +65,9 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | Algoritmo de Auditoria de Dados | Algoritmo que detecta outliers e anomalias em conjuntos de dados financeiros, aplicando normalização e margem de tolerância. | [Ver Projeto](./algoritimo-de-auditoria-de-dados/) |
 | :--- | :--- | :---: |
 | Engenharia de Solucoes Logicas| Separação do código em funções independentes para facilitar manutenção, leitura e reutilização. | [Ver Projeto](./engenharia-de-soluções-lógicas/) |
-
+| :--- | :--- | :---: |
 | Modularizacao | Solução algorítmica para problemas complexos do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./modularização/) |
-
+| :--- | :--- | :---: |
 | Traduzindo Logica para Python | Quatro programas práticos: processador de vendas, analisador de clima, sistema de notas e simulador de poupança. | [Ver Projeto](./traduzindo-lógica-para-python/) |
 
 
