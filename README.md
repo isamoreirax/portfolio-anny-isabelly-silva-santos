@@ -59,12 +59,12 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
  
 ### 📂 Portfólio de Projetos
  
-| Projeto | Descrição | Link |
-| Algoritmo de Auditoria de Dados |Algoritmo que detecta outliers e anomalias em conjuntos de dados financeiros, aplicando normalização e margem de tolerância.| [Ver Projeto](./algoritimo-de-auditoria-de-dados/) |
+#### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
- 
+| Algoritmo de Auditoria de Dados | Algoritmo que detecta outliers e anomalias em conjuntos de dados financeiros, aplicando normalização e margem de tolerância. | [Ver Projeto](./algoritimo-de-auditoria-de-dados/) |
+| :--- | :--- | :---: |
+| Engenharia de Solucoes Logicas| Solução algorítmica para problemas complexos do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./engenharia-de-soluções-lógicas/) |
 
  
 ---
